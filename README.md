@@ -2,8 +2,8 @@
 
 A backend web service built with **C# and ASP.NET Core (.NET 10)** that powers the catalog management of a digital video game store. It allows applications to create, browse, update, and remove games and genres while storing data reliably in a relational database.
 
-## Live Demonstration :
-A quick 45-second intro video, showcasing API walkthrough: link coming soon!
+## Live Demonstration:
+[Watch the 1:30 API walkthrough on Canva](https://canva.link/sgesfzjtn99ic35)
 
 ## Key Capabilities :
 - **Catalog Management (CRUD):** Handles the full lifecycle of game listings-adding new titles, retrieving individual or full catalog lists, updating pricing and removing entries.
